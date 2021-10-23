@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GloFlav
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning everything i can
