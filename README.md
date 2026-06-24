@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glo Flav</h1>
 <h3 align="center">I'm a frontend, backend, mobile developper. Able to manipulate Versionning, In short I'm a software Ingenneer</h3>
 
-<p align="left"> <a href="https://github.com/GloFlav"></a> </p>
+<p align="left"> <a href="https://github.com/GloFlav">Guil</a> </p>
 
 - 🔭 I’m currently working on **My VTC**
 
